@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from eclipse
+=======
+createdby github
+>>>>>>> branch 'master' of https://github.com/Hemangi-Shelake/GitHubDemo6.git
